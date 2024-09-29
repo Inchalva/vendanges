@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 20%;
+    background-color: #f7f7f7;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 400;
+    color: #333;
+}
