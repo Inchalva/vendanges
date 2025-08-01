@@ -6,7 +6,7 @@ let message;
 if (now > vendangesEnd) {
     message = "Les vendanges sont terminées.";
 } else if (now < vendangesStart) {
-    message = "Non :'(";
+    message = "Oui :)";
 } else {
     message = "Les vendanges sont en cours !";
 }
